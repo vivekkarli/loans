@@ -47,4 +47,6 @@ info:
   app: "loans"
   description: "IdealBank loans application"
   version: "1.0.0"
-
+logging:
+  level:
+    com.idealbank.loans: DEBUG
